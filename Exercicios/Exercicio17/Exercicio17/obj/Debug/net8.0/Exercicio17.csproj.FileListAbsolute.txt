@@ -1,0 +1,14 @@
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\Exercicio17\Exercicio17\bin\Debug\net8.0\Exercicio17.exe
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\Exercicio17\Exercicio17\bin\Debug\net8.0\Exercicio17.deps.json
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\Exercicio17\Exercicio17\bin\Debug\net8.0\Exercicio17.runtimeconfig.json
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\Exercicio17\Exercicio17\bin\Debug\net8.0\Exercicio17.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\Exercicio17\Exercicio17\bin\Debug\net8.0\Exercicio17.pdb
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\Exercicio17\Exercicio17\obj\Debug\net8.0\Exercicio17.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\Exercicio17\Exercicio17\obj\Debug\net8.0\Exercicio17.AssemblyInfoInputs.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\Exercicio17\Exercicio17\obj\Debug\net8.0\Exercicio17.AssemblyInfo.cs
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\Exercicio17\Exercicio17\obj\Debug\net8.0\Exercicio17.csproj.CoreCompileInputs.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\Exercicio17\Exercicio17\obj\Debug\net8.0\Exercicio17.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\Exercicio17\Exercicio17\obj\Debug\net8.0\refint\Exercicio17.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\Exercicio17\Exercicio17\obj\Debug\net8.0\Exercicio17.pdb
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\Exercicio17\Exercicio17\obj\Debug\net8.0\Exercicio17.genruntimeconfig.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\Exercicio17\Exercicio17\obj\Debug\net8.0\ref\Exercicio17.dll

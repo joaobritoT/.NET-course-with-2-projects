@@ -1,0 +1,14 @@
+c:\Users\João Victor\Documents\projetos\Curso C#\CicloWhile\CicloWhile\bin\Debug\net8.0\CicloWhile.exe
+c:\Users\João Victor\Documents\projetos\Curso C#\CicloWhile\CicloWhile\bin\Debug\net8.0\CicloWhile.deps.json
+c:\Users\João Victor\Documents\projetos\Curso C#\CicloWhile\CicloWhile\bin\Debug\net8.0\CicloWhile.runtimeconfig.json
+c:\Users\João Victor\Documents\projetos\Curso C#\CicloWhile\CicloWhile\bin\Debug\net8.0\CicloWhile.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\CicloWhile\CicloWhile\bin\Debug\net8.0\CicloWhile.pdb
+c:\Users\João Victor\Documents\projetos\Curso C#\CicloWhile\CicloWhile\obj\Debug\net8.0\CicloWhile.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\João Victor\Documents\projetos\Curso C#\CicloWhile\CicloWhile\obj\Debug\net8.0\CicloWhile.AssemblyInfoInputs.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\CicloWhile\CicloWhile\obj\Debug\net8.0\CicloWhile.AssemblyInfo.cs
+c:\Users\João Victor\Documents\projetos\Curso C#\CicloWhile\CicloWhile\obj\Debug\net8.0\CicloWhile.csproj.CoreCompileInputs.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\CicloWhile\CicloWhile\obj\Debug\net8.0\CicloWhile.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\CicloWhile\CicloWhile\obj\Debug\net8.0\refint\CicloWhile.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\CicloWhile\CicloWhile\obj\Debug\net8.0\CicloWhile.pdb
+c:\Users\João Victor\Documents\projetos\Curso C#\CicloWhile\CicloWhile\obj\Debug\net8.0\CicloWhile.genruntimeconfig.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\CicloWhile\CicloWhile\obj\Debug\net8.0\ref\CicloWhile.dll

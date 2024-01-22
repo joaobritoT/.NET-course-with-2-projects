@@ -1,0 +1,14 @@
+c:\Users\João Victor\Documents\projetos\Curso C#\ExemploArrays\ExemploArray\bin\Debug\net8.0\ExemploArray.exe
+c:\Users\João Victor\Documents\projetos\Curso C#\ExemploArrays\ExemploArray\bin\Debug\net8.0\ExemploArray.deps.json
+c:\Users\João Victor\Documents\projetos\Curso C#\ExemploArrays\ExemploArray\bin\Debug\net8.0\ExemploArray.runtimeconfig.json
+c:\Users\João Victor\Documents\projetos\Curso C#\ExemploArrays\ExemploArray\bin\Debug\net8.0\ExemploArray.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\ExemploArrays\ExemploArray\bin\Debug\net8.0\ExemploArray.pdb
+c:\Users\João Victor\Documents\projetos\Curso C#\ExemploArrays\ExemploArray\obj\Debug\net8.0\ExemploArray.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\João Victor\Documents\projetos\Curso C#\ExemploArrays\ExemploArray\obj\Debug\net8.0\ExemploArray.AssemblyInfoInputs.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\ExemploArrays\ExemploArray\obj\Debug\net8.0\ExemploArray.AssemblyInfo.cs
+c:\Users\João Victor\Documents\projetos\Curso C#\ExemploArrays\ExemploArray\obj\Debug\net8.0\ExemploArray.csproj.CoreCompileInputs.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\ExemploArrays\ExemploArray\obj\Debug\net8.0\ExemploArray.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\ExemploArrays\ExemploArray\obj\Debug\net8.0\refint\ExemploArray.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\ExemploArrays\ExemploArray\obj\Debug\net8.0\ExemploArray.pdb
+c:\Users\João Victor\Documents\projetos\Curso C#\ExemploArrays\ExemploArray\obj\Debug\net8.0\ExemploArray.genruntimeconfig.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\ExemploArrays\ExemploArray\obj\Debug\net8.0\ref\ExemploArray.dll

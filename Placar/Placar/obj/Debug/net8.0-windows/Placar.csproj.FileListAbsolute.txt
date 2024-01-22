@@ -1,0 +1,17 @@
+C:\Users\João Victor\Documents\projetos\Curso C#\Placar\Placar\bin\Debug\net8.0-windows\Placar.exe
+C:\Users\João Victor\Documents\projetos\Curso C#\Placar\Placar\bin\Debug\net8.0-windows\Placar.deps.json
+C:\Users\João Victor\Documents\projetos\Curso C#\Placar\Placar\bin\Debug\net8.0-windows\Placar.runtimeconfig.json
+C:\Users\João Victor\Documents\projetos\Curso C#\Placar\Placar\bin\Debug\net8.0-windows\Placar.dll
+C:\Users\João Victor\Documents\projetos\Curso C#\Placar\Placar\bin\Debug\net8.0-windows\Placar.pdb
+C:\Users\João Victor\Documents\projetos\Curso C#\Placar\Placar\obj\Debug\net8.0-windows\Placar.Form1.resources
+C:\Users\João Victor\Documents\projetos\Curso C#\Placar\Placar\obj\Debug\net8.0-windows\Placar.Properties.Resources.resources
+C:\Users\João Victor\Documents\projetos\Curso C#\Placar\Placar\obj\Debug\net8.0-windows\Placar.csproj.GenerateResource.cache
+C:\Users\João Victor\Documents\projetos\Curso C#\Placar\Placar\obj\Debug\net8.0-windows\Placar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Victor\Documents\projetos\Curso C#\Placar\Placar\obj\Debug\net8.0-windows\Placar.AssemblyInfoInputs.cache
+C:\Users\João Victor\Documents\projetos\Curso C#\Placar\Placar\obj\Debug\net8.0-windows\Placar.AssemblyInfo.cs
+C:\Users\João Victor\Documents\projetos\Curso C#\Placar\Placar\obj\Debug\net8.0-windows\Placar.csproj.CoreCompileInputs.cache
+C:\Users\João Victor\Documents\projetos\Curso C#\Placar\Placar\obj\Debug\net8.0-windows\Placar.dll
+C:\Users\João Victor\Documents\projetos\Curso C#\Placar\Placar\obj\Debug\net8.0-windows\refint\Placar.dll
+C:\Users\João Victor\Documents\projetos\Curso C#\Placar\Placar\obj\Debug\net8.0-windows\Placar.pdb
+C:\Users\João Victor\Documents\projetos\Curso C#\Placar\Placar\obj\Debug\net8.0-windows\Placar.genruntimeconfig.cache
+C:\Users\João Victor\Documents\projetos\Curso C#\Placar\Placar\obj\Debug\net8.0-windows\ref\Placar.dll

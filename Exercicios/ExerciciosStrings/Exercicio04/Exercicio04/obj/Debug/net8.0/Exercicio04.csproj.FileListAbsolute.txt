@@ -1,0 +1,14 @@
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio04\Exercicio04\bin\Debug\net8.0\Exercicio04.exe
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio04\Exercicio04\bin\Debug\net8.0\Exercicio04.deps.json
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio04\Exercicio04\bin\Debug\net8.0\Exercicio04.runtimeconfig.json
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio04\Exercicio04\bin\Debug\net8.0\Exercicio04.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio04\Exercicio04\bin\Debug\net8.0\Exercicio04.pdb
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio04\Exercicio04\obj\Debug\net8.0\Exercicio04.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio04\Exercicio04\obj\Debug\net8.0\Exercicio04.AssemblyInfoInputs.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio04\Exercicio04\obj\Debug\net8.0\Exercicio04.AssemblyInfo.cs
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio04\Exercicio04\obj\Debug\net8.0\Exercicio04.csproj.CoreCompileInputs.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio04\Exercicio04\obj\Debug\net8.0\Exercicio04.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio04\Exercicio04\obj\Debug\net8.0\refint\Exercicio04.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio04\Exercicio04\obj\Debug\net8.0\Exercicio04.pdb
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio04\Exercicio04\obj\Debug\net8.0\Exercicio04.genruntimeconfig.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio04\Exercicio04\obj\Debug\net8.0\ref\Exercicio04.dll

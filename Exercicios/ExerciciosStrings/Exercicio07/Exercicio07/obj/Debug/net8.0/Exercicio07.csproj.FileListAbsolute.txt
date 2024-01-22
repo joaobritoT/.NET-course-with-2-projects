@@ -1,0 +1,14 @@
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio07\Exercicio07\bin\Debug\net8.0\Exercicio07.exe
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio07\Exercicio07\bin\Debug\net8.0\Exercicio07.deps.json
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio07\Exercicio07\bin\Debug\net8.0\Exercicio07.runtimeconfig.json
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio07\Exercicio07\bin\Debug\net8.0\Exercicio07.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio07\Exercicio07\bin\Debug\net8.0\Exercicio07.pdb
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio07\Exercicio07\obj\Debug\net8.0\Exercicio07.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio07\Exercicio07\obj\Debug\net8.0\Exercicio07.AssemblyInfoInputs.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio07\Exercicio07\obj\Debug\net8.0\Exercicio07.AssemblyInfo.cs
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio07\Exercicio07\obj\Debug\net8.0\Exercicio07.csproj.CoreCompileInputs.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio07\Exercicio07\obj\Debug\net8.0\Exercicio07.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio07\Exercicio07\obj\Debug\net8.0\refint\Exercicio07.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio07\Exercicio07\obj\Debug\net8.0\Exercicio07.pdb
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio07\Exercicio07\obj\Debug\net8.0\Exercicio07.genruntimeconfig.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\Exercicios\ExerciciosStrings\Exercicio07\Exercicio07\obj\Debug\net8.0\ref\Exercicio07.dll

@@ -1,0 +1,14 @@
+c:\Users\João Victor\Documents\projetos\Curso C#\Menus\Menus\bin\Debug\net8.0\Menus.exe
+c:\Users\João Victor\Documents\projetos\Curso C#\Menus\Menus\bin\Debug\net8.0\Menus.deps.json
+c:\Users\João Victor\Documents\projetos\Curso C#\Menus\Menus\bin\Debug\net8.0\Menus.runtimeconfig.json
+c:\Users\João Victor\Documents\projetos\Curso C#\Menus\Menus\bin\Debug\net8.0\Menus.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\Menus\Menus\bin\Debug\net8.0\Menus.pdb
+c:\Users\João Victor\Documents\projetos\Curso C#\Menus\Menus\obj\Debug\net8.0\Menus.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\João Victor\Documents\projetos\Curso C#\Menus\Menus\obj\Debug\net8.0\Menus.AssemblyInfoInputs.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\Menus\Menus\obj\Debug\net8.0\Menus.AssemblyInfo.cs
+c:\Users\João Victor\Documents\projetos\Curso C#\Menus\Menus\obj\Debug\net8.0\Menus.csproj.CoreCompileInputs.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\Menus\Menus\obj\Debug\net8.0\Menus.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\Menus\Menus\obj\Debug\net8.0\refint\Menus.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\Menus\Menus\obj\Debug\net8.0\Menus.pdb
+c:\Users\João Victor\Documents\projetos\Curso C#\Menus\Menus\obj\Debug\net8.0\Menus.genruntimeconfig.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\Menus\Menus\obj\Debug\net8.0\ref\Menus.dll

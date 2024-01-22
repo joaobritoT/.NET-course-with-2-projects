@@ -1,0 +1,11 @@
+C:\Users\João Victor\Documents\projetos\Curso C#\ExmploCL\GestaoPessoas\bin\Debug\net8.0\GestaoPessoas.deps.json
+C:\Users\João Victor\Documents\projetos\Curso C#\ExmploCL\GestaoPessoas\bin\Debug\net8.0\GestaoPessoas.dll
+C:\Users\João Victor\Documents\projetos\Curso C#\ExmploCL\GestaoPessoas\bin\Debug\net8.0\GestaoPessoas.pdb
+C:\Users\João Victor\Documents\projetos\Curso C#\ExmploCL\GestaoPessoas\obj\Debug\net8.0\GestaoPessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Victor\Documents\projetos\Curso C#\ExmploCL\GestaoPessoas\obj\Debug\net8.0\GestaoPessoas.AssemblyInfoInputs.cache
+C:\Users\João Victor\Documents\projetos\Curso C#\ExmploCL\GestaoPessoas\obj\Debug\net8.0\GestaoPessoas.AssemblyInfo.cs
+C:\Users\João Victor\Documents\projetos\Curso C#\ExmploCL\GestaoPessoas\obj\Debug\net8.0\GestaoPessoas.csproj.CoreCompileInputs.cache
+C:\Users\João Victor\Documents\projetos\Curso C#\ExmploCL\GestaoPessoas\obj\Debug\net8.0\GestaoPessoas.dll
+C:\Users\João Victor\Documents\projetos\Curso C#\ExmploCL\GestaoPessoas\obj\Debug\net8.0\refint\GestaoPessoas.dll
+C:\Users\João Victor\Documents\projetos\Curso C#\ExmploCL\GestaoPessoas\obj\Debug\net8.0\GestaoPessoas.pdb
+C:\Users\João Victor\Documents\projetos\Curso C#\ExmploCL\GestaoPessoas\obj\Debug\net8.0\ref\GestaoPessoas.dll

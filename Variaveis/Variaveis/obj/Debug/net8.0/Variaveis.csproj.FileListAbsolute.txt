@@ -1,0 +1,14 @@
+c:\Users\João Victor\Documents\projetos\Curso C#\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.exe
+c:\Users\João Victor\Documents\projetos\Curso C#\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.deps.json
+c:\Users\João Victor\Documents\projetos\Curso C#\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.runtimeconfig.json
+c:\Users\João Victor\Documents\projetos\Curso C#\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.pdb
+c:\Users\João Victor\Documents\projetos\Curso C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\João Victor\Documents\projetos\Curso C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.AssemblyInfoInputs.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.AssemblyInfo.cs
+c:\Users\João Victor\Documents\projetos\Curso C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.csproj.CoreCompileInputs.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\Variaveis\Variaveis\obj\Debug\net8.0\refint\Variaveis.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.pdb
+c:\Users\João Victor\Documents\projetos\Curso C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.genruntimeconfig.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\Variaveis\Variaveis\obj\Debug\net8.0\ref\Variaveis.dll

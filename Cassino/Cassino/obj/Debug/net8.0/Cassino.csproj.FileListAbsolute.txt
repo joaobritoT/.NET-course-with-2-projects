@@ -1,0 +1,14 @@
+c:\Users\João Victor\Documents\projetos\Curso C#\Cassino\Cassino\bin\Debug\net8.0\Cassino.exe
+c:\Users\João Victor\Documents\projetos\Curso C#\Cassino\Cassino\bin\Debug\net8.0\Cassino.deps.json
+c:\Users\João Victor\Documents\projetos\Curso C#\Cassino\Cassino\bin\Debug\net8.0\Cassino.runtimeconfig.json
+c:\Users\João Victor\Documents\projetos\Curso C#\Cassino\Cassino\bin\Debug\net8.0\Cassino.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\Cassino\Cassino\bin\Debug\net8.0\Cassino.pdb
+c:\Users\João Victor\Documents\projetos\Curso C#\Cassino\Cassino\obj\Debug\net8.0\Cassino.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\João Victor\Documents\projetos\Curso C#\Cassino\Cassino\obj\Debug\net8.0\Cassino.AssemblyInfoInputs.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\Cassino\Cassino\obj\Debug\net8.0\Cassino.AssemblyInfo.cs
+c:\Users\João Victor\Documents\projetos\Curso C#\Cassino\Cassino\obj\Debug\net8.0\Cassino.csproj.CoreCompileInputs.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\Cassino\Cassino\obj\Debug\net8.0\Cassino.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\Cassino\Cassino\obj\Debug\net8.0\refint\Cassino.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\Cassino\Cassino\obj\Debug\net8.0\Cassino.pdb
+c:\Users\João Victor\Documents\projetos\Curso C#\Cassino\Cassino\obj\Debug\net8.0\Cassino.genruntimeconfig.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\Cassino\Cassino\obj\Debug\net8.0\ref\Cassino.dll

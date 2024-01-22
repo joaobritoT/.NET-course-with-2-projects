@@ -1,0 +1,14 @@
+c:\Users\João Victor\Documents\projetos\Curso C#\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.exe
+c:\Users\João Victor\Documents\projetos\Curso C#\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.deps.json
+c:\Users\João Victor\Documents\projetos\Curso C#\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.runtimeconfig.json
+c:\Users\João Victor\Documents\projetos\Curso C#\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.pdb
+c:\Users\João Victor\Documents\projetos\Curso C#\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\João Victor\Documents\projetos\Curso C#\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfoInputs.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfo.cs
+c:\Users\João Victor\Documents\projetos\Curso C#\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.csproj.CoreCompileInputs.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\SwitchCase\SwitchCase\obj\Debug\net8.0\refint\SwitchCase.dll
+c:\Users\João Victor\Documents\projetos\Curso C#\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.pdb
+c:\Users\João Victor\Documents\projetos\Curso C#\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.genruntimeconfig.cache
+c:\Users\João Victor\Documents\projetos\Curso C#\SwitchCase\SwitchCase\obj\Debug\net8.0\ref\SwitchCase.dll
